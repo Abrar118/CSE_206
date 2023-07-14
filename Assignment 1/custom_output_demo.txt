@@ -1,0 +1,212 @@
+1. Create new account
+2. Sign in
+3. Sign out
+4. Reset Password
+5. Send Money
+6. View Transactions
+7. View Customer List
+8. Exit
+
+Current User: CSE_LAB
+
+Option: 6
+****************************************************************
+Acount Holder: CSE_LAB
+
+Transaction-1
+Receiver: Abrar
+Amount: 30 Taka
+Current Balance: 470 Taka
+
+****************************************************************
+
+1. Create new account
+2. Sign in
+3. Sign out
+4. Reset Password
+5. Send Money
+6. View Transactions
+7. View Customer List
+8. Exit
+
+Current User: CSE_LAB
+
+Option: 7
+*****************************************
+
+Name: Abrar
+Mail: abrar@gmail.com
+Password: *********
+Balance: 530 Taka
+
+
+Name: Mahir
+Mail: mahir@gmail.com
+Password: *********
+Balance: 500 Taka
+
+
+Name: Esam
+Mail: esam@gmail.com
+Password: ********
+Balance: 500 Taka
+
+
+Name: CSE_LAB
+Mail: cse@gmail.com
+Password: *******
+Balance: 470 Taka
+
+
+Name: MMG_LAB
+Mail: mmglab@gmail.com
+Password: ********
+Balance: 500 Taka
+
+
+*****************************************
+
+1. Create new account
+2. Sign in
+3. Sign out
+4. Reset Password
+5. Send Money
+6. View Transactions
+7. View Customer List
+8. Exit
+
+Current User: CSE_LAB
+
+Option: 3
+Logged out
+
+1. Create new account
+2. Sign in
+3. Sign out
+4. Reset Password
+5. Send Money
+6. View Transactions
+7. View Customer List
+8. Exit
+
+Option: 2
+Enter mail: abrar@gmail.com
+Enter password: abrar1234
+Logged in
+
+1. Create new account
+2. Sign in
+3. Sign out
+4. Reset Password
+5. Send Money
+6. View Transactions
+7. View Customer List
+8. Exit
+
+Current User: Abrar
+
+Option: 4
+Enter new password: abrar123
+Password Reset Successfully
+
+1. Create new account
+2. Sign in
+3. Sign out
+4. Reset Password
+5. Send Money
+6. View Transactions
+7. View Customer List
+8. Exit
+
+Current User: Abrar
+
+Option: 5
+Enter Recipient mail: mahir@gmail.com
+Amount to be sent: 10
+Transaction Successful
+
+1. Create new account
+2. Sign in
+3. Sign out
+4. Reset Password
+5. Send Money
+6. View Transactions
+7. View Customer List
+8. Exit
+
+Current User: Abrar
+
+Option: 7
+*****************************************
+
+Name: Abrar
+Mail: abrar@gmail.com
+Password: ********
+Balance: 520 Taka
+
+
+Name: Mahir
+Mail: mahir@gmail.com
+Password: *********
+Balance: 510 Taka
+
+
+Name: Esam
+Mail: esam@gmail.com
+Password: ********
+Balance: 500 Taka
+
+
+Name: CSE_LAB
+Mail: cse@gmail.com
+Password: *******
+Balance: 470 Taka
+
+
+Name: MMG_LAB
+Mail: mmglab@gmail.com
+Password: ********
+Balance: 500 Taka
+
+
+*****************************************
+
+1. Create new account
+2. Sign in
+3. Sign out
+4. Reset Password
+5. Send Money
+6. View Transactions
+7. View Customer List
+8. Exit
+
+Current User: Abrar
+
+Option: 6
+****************************************************************
+Acount Holder: Abrar
+
+Transaction-1
+Sender: CSE_LAB
+Amount: 30 Taka
+Current Balance: 530 Taka
+
+Transaction-2
+Receiver: Mahir
+Amount: 10 Taka
+Current Balance: 520 Taka
+
+****************************************************************
+
+1. Create new account
+2. Sign in
+3. Sign out
+4. Reset Password
+5. Send Money
+6. View Transactions
+7. View Customer List
+8. Exit
+
+Current User: Abrar
+
+Option: 8 ////program ends
